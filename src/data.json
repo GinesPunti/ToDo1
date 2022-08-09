@@ -1,0 +1,18 @@
+[{
+    "id": 1,
+    "task": "Tender la ropa",
+    "state": false
+},{
+    "id": 2,
+    "task": "Lavar el auto",
+    "state": false
+},{
+    "id": 3,
+    "task": "Limpiar la habitacion",
+    "state": false
+},{
+    "id": 4,
+    "task": "Estudiar",
+    "state": false
+}
+]
